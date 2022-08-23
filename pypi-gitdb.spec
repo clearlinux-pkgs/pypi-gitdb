@@ -4,7 +4,7 @@
 #
 Name     : pypi-gitdb
 Version  : 4.0.9
-Release  : 35
+Release  : 36
 URL      : https://files.pythonhosted.org/packages/fc/44/64e02ef96f20b347385f0e9c03098659cb5a1285d36c3d17c56e534d80cf/gitdb-4.0.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fc/44/64e02ef96f20b347385f0e9c03098659cb5a1285d36c3d17c56e534d80cf/gitdb-4.0.9.tar.gz
 Summary  : Git Object Database
